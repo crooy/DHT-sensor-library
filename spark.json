@@ -1,0 +1,7 @@
+{
+    "name": "DHT sensor library",
+    "version": "1.2.3",
+    "author": "Adafruit <info@adafruit.com>",
+    "license": "MIT License",
+    "description": "Arduino library for DHT11, DHT22, etc Temp & Humidity Sensors"
+}
